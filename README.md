@@ -50,6 +50,7 @@ user: {
 
 ## Screenshots of your Trello board throughout the duration of the project
 
+3/12/19
 <img src="./Docs/Screen Shot 2019-12-04 at 9.46.36 am.png" width="300" />
 
 
