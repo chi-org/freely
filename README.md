@@ -50,6 +50,8 @@ user: {
 
 ## Screenshots of your Trello board throughout the duration of the project
 
+<img src="./Docs/Screen Shot 2019-12-04 at 9.46.36 am.png" width="300" />
+
 
 ```text
 Our project is to create a web application for homeschool educators. It needs to be responsive and fully functional on phone, tablet and desktop. At the very least it needs the following functionality...
