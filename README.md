@@ -10,7 +10,7 @@ Our project is to create a web application for homeschool educators.
   - Ability to search for any activity including past and "complete" activities
 
 ### Target audience
-Teachers
+Teachers and Educators
 
 ### Tech stack
 ExpressJs ReactJs NodeJs Js MongoDB Window MacOS Wifi Chrome Android Food
