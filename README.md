@@ -17,6 +17,30 @@ ExpressJs ReactJs NodeJs Js MongoDB Window MacOS Wifi Chrome Android Food
 
 
 ## Dataflow Diagram
+```javascript
+user: {
+    name: {
+        first: String,
+        last: String
+    },
+    dateJoined: Date,
+    students: [{
+        type: String
+    }],
+    activities: [{
+        name: String,
+        textContent: String,
+        date: Date,
+        dateCompleted: Date,
+        students: [{
+            type: String
+        }],
+        assets: [{
+            type: String // assuming links to external storage, data type can change
+        }]
+    }]
+}
+```
 
 ## Application Architecture Diagram
 
