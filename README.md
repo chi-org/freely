@@ -8,11 +8,7 @@ To create a web application to facilitate home schooling activites and tracking 
 * Interface to find activites based on filters
 
 ### Target audience
-<<<<<<< HEAD
 Entity providing education - teacher/parent/tutor
-=======
-Teachers and Educators
->>>>>>> 46ce1f4e1941155fe51a8cfc1b13a8cdde38bee6
 
 ### Tech stack
 MERN (MongoDB, Express, React, Node.js)
