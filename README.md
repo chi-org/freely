@@ -1,20 +1,17 @@
-## Description of your website, including
-
 ### Purpose
-Our project is to create a web application for homeschool educators.
+To create a web application to facilitate home schooling activites and tracking completion across multiple students
+
 ### Functionality / features
-  - Login
-  - Student setup (just a name for tagging)
-  - Add/Edit/Delete an "Activity". This is like a "note" that can consist of a date (past, present or future), text, photo/video/audio, "completed" flag and tag one or more students
-  - Ability to view "Activities" as a task list with filters for today, this week, and future
-  - Ability to search for any activity including past and "complete" activities
+* Authentication
+* Interface for student management
+* Interface for managing activites
+* Interface to find activites based on filters
 
 ### Target audience
-Teachers
+Entity providing education - teacher/parent/tutor
 
 ### Tech stack
-ExpressJs ReactJs NodeJs Js MongoDB Window MacOS Wifi Chrome Android Food
-
+MERN (MongoDB, Express, React, Node.js)
 
 ## Dataflow Diagram
 ```javascript
@@ -45,6 +42,15 @@ user: {
 ## Application Architecture Diagram
 
 ## User Stories
+* As a user, I can set up and manage an account on the service
+* As a user, I can manage a list of students
+* As a user, I can manage activites including the ability to:
+    * Add, edit and remove activites
+    * Set a name, description and due date for an activity
+    * Tag students and mark an activity as complete
+    * Attach assets to an activity to provide a rich experience
+    * Link activites to one another
+* As a user, I can find activites based on a set of filters
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
