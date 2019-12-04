@@ -51,7 +51,7 @@ user: {
 #### Desktop
 
 #### Mobile
-|  <img src="./Docs/Mockups/78042458_548940752596303_4557584016206725120_n.png" width="100" />
+| <img src="./Docs/Mockups/78042458_548940752596303_4557584016206725120_n.png" width="100" />
 | <img src="./Docs/Mockups/78096386_792711084509630_2010875444282261504_n.png" width="100" />
  | <img src="./Docs/Mockups/78121231_767559510383289_5043152871000899584_n.png" width="100" />
  | <img src="./Docs/Mockups/78247378_2409140202736747_5168204095114182656_n.png" width="100" />
@@ -59,9 +59,7 @@ user: {
  | <img src="./Docs/Mockups/78296387_422105271816132_7116791862085550080_n.png" width="100" />
  | <img src="./Docs/Mockups/78599042_1825698227567410_6403373772467863552_n.png" width="100" />
  | <img src="./Docs/Mockups/78815902_2511913082393794_249607972936744960_n.png" width="100" />
- | <img src="./Docs/Mockups/78903307_1411215442379506_7645052421219024896_n.png" width="100" />
- |
-|---|---|---|---|---|---|---|---|---|
+ | <img src="./Docs/Mockups/78903307_1411215442379506_7645052421219024896_n.png" width="100" /> |
 
 
 ## Screenshots of your Trello board throughout the duration of the project
