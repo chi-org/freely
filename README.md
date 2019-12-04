@@ -54,10 +54,25 @@ user: {
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
+#### Desktop
+| <img src="./Docs/Mockups/Desktop/All Activitys.png" width="200" /> |<img src="./Docs/Mockups/Desktop/Main Page.png" width="200" />|<img src="./Docs/Mockups/Desktop/Mark as complete.png" width="200" />|
+
+#### Mobile
+| <img src="./Docs/Mockups/78096386_792711084509630_2010875444282261504_n.png" width="100" />
+ | <img src="./Docs/Mockups/78247378_2409140202736747_5168204095114182656_n.png" width="100" />
+ | <img src="./Docs/Mockups/78294394_441256313251495_5784109861423808512_n.png" width="100" />
+ | <img src="./Docs/Mockups/78296387_422105271816132_7116791862085550080_n.png" width="100" />
+ | <img src="./Docs/Mockups/78599042_1825698227567410_6403373772467863552_n.png" width="100" />
+ | <img src="./Docs/Mockups/78815902_2511913082393794_249607972936744960_n.png" width="100" />
+ | <img src="./Docs/Mockups/78903307_1411215442379506_7645052421219024896_n.png" width="100" /> |
+
+
 ## Screenshots of your Trello board throughout the duration of the project
 
 3/12/19
 <img src="./Docs/Screen Shot 2019-12-04 at 9.46.36 am.png" width="300" />
+
+
 
 
 ```text
