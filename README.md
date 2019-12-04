@@ -49,6 +49,7 @@ user: {
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
 #### Desktop
+| <img src="./Docs/Mockups/Desktop/All Activitys.png" width="200" /> |<img src="./Docs/Mockups/Desktop/Main Page.png" width="200" />|<img src="./Docs/Mockups/Desktop/Mark as complete.png" width="200" />|
 
 #### Mobile
 | <img src="./Docs/Mockups/78096386_792711084509630_2010875444282261504_n.png" width="100" />
@@ -64,6 +65,8 @@ user: {
 
 3/12/19
 <img src="./Docs/Screen Shot 2019-12-04 at 9.46.36 am.png" width="300" />
+
+
 
 
 ```text

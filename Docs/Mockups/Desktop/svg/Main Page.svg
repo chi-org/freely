@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1080" viewBox="0 0 1920 1080">
+  <defs>
+    <clipPath id="clip-Main_Page">
+      <rect width="1920" height="1080"/>
+    </clipPath>
+  </defs>
+  <g id="Main_Page" data-name="Main Page" clip-path="url(#clip-Main_Page)">
+    <rect width="1920" height="1080" fill="#fff"/>
+    <g id="Rectangle_10" data-name="Rectangle 10" transform="translate(260 40)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1400" height="62" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1399" height="61" fill="none"/>
+    </g>
+    <text id="Nav_bar" data-name="Nav bar" transform="translate(960 79)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Nav bar</tspan></text>
+    <g id="Rectangle_11" data-name="Rectangle 11" transform="translate(481 121)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="1029" height="262" stroke="none"/>
+      <rect x="0.5" y="0.5" width="1028" height="261" fill="none"/>
+    </g>
+    <g id="Rectangle_12" data-name="Rectangle 12" transform="translate(1309 416)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="201" height="60" stroke="none"/>
+      <rect x="0.5" y="0.5" width="200" height="59" fill="none"/>
+    </g>
+    <text id="Add" transform="translate(1391 454)" fill="#707070" font-size="20" font-family="HelveticaNeue, Helvetica Neue"><tspan x="0" y="0">Add</tspan></text>
+    <g id="Rectangle_13" data-name="Rectangle 13" transform="translate(481 564)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="450" height="200" stroke="none"/>
+      <rect x="0.5" y="0.5" width="449" height="199" fill="none"/>
+    </g>
+    <g id="Rectangle_14" data-name="Rectangle 14" transform="translate(1060 564)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="450" height="200" stroke="none"/>
+      <rect x="0.5" y="0.5" width="449" height="199" fill="none"/>
+    </g>
+    <g id="Rectangle_15" data-name="Rectangle 15" transform="translate(481 824)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="450" height="200" stroke="none"/>
+      <rect x="0.5" y="0.5" width="449" height="199" fill="none"/>
+    </g>
+    <g id="Rectangle_16" data-name="Rectangle 16" transform="translate(1060 824)" fill="#fff" stroke="#707070" stroke-width="1">
+      <rect width="450" height="200" stroke="none"/>
+      <rect x="0.5" y="0.5" width="449" height="199" fill="none"/>
+    </g>
+  </g>
+</svg>
