@@ -4,16 +4,18 @@ To create a web application to facilitate home schooling activites and tracking 
 ### Functionality / features
 * Authentication
 * Interface for student management
-* Interface for managing activites
-* Interface to find activites based on filters
+* Interface for managing activities
+* Interface to find activities based on filters
 
 ### Target audience
 Entity providing education - teacher/parent/tutor
 
 ### Tech stack
-MERN (MongoDB, Express, React, Node.js)
+The tech stack for this project is MERN (MongoDB, Express, React, Node.js)
 
-## Dataflow Diagram
+MongoDB for database, ExpressJs for the server, React for the front end.
+
+## Data flow Diagram
 ```javascript
 user: {
     name: {
@@ -44,13 +46,13 @@ user: {
 ## User Stories
 * As a user, I can set up and manage an account on the service
 * As a user, I can manage a list of students
-* As a user, I can manage activites including the ability to:
-    * Add, edit and remove activites
+* As a user, I can manage activities including the ability to:
+    * Add, edit and remove activities
     * Set a name, description and due date for an activity
     * Tag students and mark an activity as complete
     * Attach assets to an activity to provide a rich experience
-    * Link activites to one another
-* As a user, I can find activites based on a set of filters
+    * Link activities to one another
+* As a user, I can find activities based on a set of filters
 
 ## Wireframes for multiple standard screen sizes, created using industry standard software
 
@@ -76,7 +78,7 @@ user: {
 
 
 ```text
-Our project is to create a web application for homeschool educators. It needs to be responsive and fully functional on phone, tablet and desktop. At the very least it needs the following functionality...
+Our project is to create a web application for home school educators. It needs to be responsive and fully functional on phone, tablet and desktop. At the very least it needs the following functionality...
 
   - Login
   - Student setup (just a name for tagging)
