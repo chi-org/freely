@@ -16,6 +16,7 @@ The tech stack for this project is MERN (MongoDB, Express, React, Node.js)
 MongoDB for database, ExpressJs for the server, React for the front end.
 
 ## Data flow Diagram
+#### Schema
 ```javascript
 user: {
     name: {
@@ -40,6 +41,8 @@ user: {
     }]
 }
 ```
+<a href="./Docs/dataflow.jpg"><img src="./Docs/dataflow.jpg" width="600" /></a>
+<a href="./Docs/dataflow.md">Accompanying dataflow document</a>
 
 ## Application Architecture Diagram
 
