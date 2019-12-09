@@ -42,6 +42,7 @@ user: {
 }
 ```
 <a href="./Docs/dataflow.jpg"><img src="./Docs/dataflow.jpg" width="600" /></a>
+
 <a href="./Docs/dataflow.md">Accompanying dataflow document</a>
 
 ## Application Architecture Diagram
