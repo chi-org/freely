@@ -1,22 +1,28 @@
 ### Purpose
+
 To create a web application to facilitate home schooling activites and tracking completion across multiple students
 
 ### Functionality / features
+
 * Authentication
 * Interface for student management
 * Interface for managing activities
 * Interface to find activities based on filters
 
 ### Target audience
+
 Entity providing education - teacher/parent/tutor
 
 ### Tech stack
+
 The tech stack for this project is MERN (MongoDB, Express, React, Node.js)
 
 MongoDB for database, ExpressJs for the server, React for the front end.
 
 ## Data flow Diagram
+
 #### Schema
+
 ```javascript
 user: {
     name: {
