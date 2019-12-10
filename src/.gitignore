@@ -89,8 +89,4 @@ typings/
 # DynamoDB Local files
 .dynamodb/
 
-
-../.idea/*
-.idea/*
-../../.idea/*
-**/.idea/*
+.idea
