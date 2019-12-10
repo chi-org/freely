@@ -43,7 +43,22 @@ user: {
 
 ## Application Architecture Diagram
 
+Front-end
+* Reactjs
+
+Back-end
+* Express
+* Mongoose
+
+Database
+* MongoDB
+
+<img alt="mern" src="./Docs/mern stack development.png" />
+
+Image from https://www.topzenith.com/2018/04/top-10-best-mern-stack-video-tutorials.html
+
 ## User Stories
+
 * As a user, I can set up and manage an account on the service
 * As a user, I can manage a list of students
 * As a user, I can manage activities including the ability to:
