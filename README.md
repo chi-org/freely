@@ -1,3 +1,4 @@
+# Docs
 ### Purpose
 
 To create a web application to facilitate homeschooling activities and tracking completion across multiple students
@@ -54,13 +55,17 @@ user: {
 ## Application Architecture Diagram
 
 Front-end
+
 * Reactjs
+* Bootstrap (<https://getbootstrap.com/)>
 
 Back-end
+
 * Express
 * Mongoose
 
 Database
+
 * MongoDB
 
 <img alt="mern" src="./Docs/mern stack development.png" />
@@ -94,14 +99,10 @@ Image from https://www.topzenith.com/2018/04/top-10-best-mern-stack-video-tutori
  | <img src="./Docs/Mockups/78815902_2511913082393794_249607972936744960_n.png" width="100" />
  | <img src="./Docs/Mockups/78903307_1411215442379506_7645052421219024896_n.png" width="100" /> |
 
-
 ## Screenshots of your Trello board throughout the project
 
 3/12/19
 <img src="./Docs/Screen Shot 2019-12-04 at 9.46.36 am.png" width="300" />
-
-
-
 
 ```text
 Our project is to create a web application for home school educators. It needs to be responsive and fully functional on the phone, tablet, and desktop. At the very least it needs the following functionality...
