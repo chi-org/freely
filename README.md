@@ -97,9 +97,9 @@ Image from https://www.topzenith.com/2018/04/top-10-best-mern-stack-video-tutori
  | <img src="./Docs/Mockups/78296387_422105271816132_7116791862085550080_n.png" width="100" />
  | <img src="./Docs/Mockups/78599042_1825698227567410_6403373772467863552_n.png" width="100" />
  | <img src="./Docs/Mockups/78815902_2511913082393794_249607972936744960_n.png" width="100" />
- | <img src="./Docs/Mockups/78903307_1411215442379506_7645052421219024896_n.png" width="100" /> |
- | <img src="./Docs/Mockups/search.png" width="150" /> |
- | <img src="./Docs/Mockups/student-setup.png" width="100" /> |
+ | <img src="./Docs/Mockups/78903307_1411215442379506_7645052421219024896_n.png" width="100" /> 
+ | <img src="./Docs/Mockups/search.png" width="150" /> 
+ | <img src="./Docs/Mockups/student-setup.png" width="100" /> 
 
 ## Screenshots of your Trello board throughout the project
 
