@@ -47,6 +47,7 @@ For the student select menu
 Parse incoming request bodies in a middleware before your handlers
 
 ### chi
+testing
 
 ### connect-mongo
 
@@ -90,15 +91,11 @@ authentication middleware
 
 Passport strategy for authenticating with a username and password.
 
-## passport-local-mongoose
+### passport-local-mongoose
 
 Passport-Local Mongoose is a Mongoose plugin that simplifies building username and password login with Passport
 
-# Project Management Methodology
 
-# Source Control
-
-# Test Deployment
 
 ## Server - Heroku
 
