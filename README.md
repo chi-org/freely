@@ -1,8 +1,7 @@
-## Freely - Homeschooling Web App
+# Freely
+## Homeschooling Web App
 
-Freely is an app to allow homeschool teachers to track their progress with a learning plan.
-
-
+Freely is an app to allow homeschool teachers to track their progress through a learning plan.
 
 # App Functionality
 
